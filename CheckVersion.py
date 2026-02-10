@@ -1,3 +1,3 @@
 import sys
-print (Hello)
+print ("Hello")
 print(f"Версия Python: {sys.version}")
